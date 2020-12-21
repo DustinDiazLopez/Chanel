@@ -9,3 +9,5 @@
 #else
 	#error OS not supported
 #endif // CH_PLATFORM_WINDOWS
+
+#define BIT(x) (1 << x)

@@ -19,6 +19,10 @@
     <ClInclude Include="src\Chanel\Log.h">
       <Filter>Chanel</Filter>
     </ClInclude>
+    <ClInclude Include="src\Chanel\Events\ApplicationEvent.h" />
+    <ClInclude Include="src\Chanel\Events\Event.h" />
+    <ClInclude Include="src\Chanel\Events\KeyEvent.h" />
+    <ClInclude Include="src\Chanel\Events\MouseEvent.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Chanel\Application.cpp">

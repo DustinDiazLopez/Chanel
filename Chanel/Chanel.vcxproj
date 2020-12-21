@@ -144,6 +144,10 @@
     <ClInclude Include="src\Chanel\Application.h" />
     <ClInclude Include="src\Chanel\Core.h" />
     <ClInclude Include="src\Chanel\EntryPoint.h" />
+    <ClInclude Include="src\Chanel\Events\ApplicationEvent.h" />
+    <ClInclude Include="src\Chanel\Events\Event.h" />
+    <ClInclude Include="src\Chanel\Events\KeyEvent.h" />
+    <ClInclude Include="src\Chanel\Events\MouseEvent.h" />
     <ClInclude Include="src\Chanel\Log.h" />
   </ItemGroup>
   <ItemGroup>
